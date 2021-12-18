@@ -1,5 +1,5 @@
 {
-  "homepage":"http://Neeraj2212.github.io/react-learning",
+  "homepage": "https://neeraj2212.github.io/Ristorante-con-Fusion/",
   "name": "react-course",
   "version": "0.1.0",
   "private": true,
@@ -28,8 +28,8 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "predeploy":"yarn build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
